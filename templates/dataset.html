@@ -1,0 +1,11 @@
+{% extends 'base.html' %}
+
+{% block title %}
+	Heart Disease Dataset
+{% endblock %}
+
+{% block content %}
+<div style="padding-top: 50px">
+{{df_table.to_html(classes="table table-striped table-hover",header="true",justify='center') | safe }}
+</div>
+{% endblock %}

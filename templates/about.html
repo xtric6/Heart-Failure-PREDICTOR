@@ -1,0 +1,57 @@
+{% extends 'base.html' %}
+
+{% block title %}
+About heart failure
+{% endblock %}
+
+{% block content %}
+	<div style="padding-top: 70px;" class="container lead" >
+		<h2>What is heart failure? </h2>
+
+		<p>Heart failure is characterized by the heart’s inability to pump an adequate supply of blood to the body. Without sufficient blood flow, all major body functions are disrupted. Heart failure is a condition or a collection of symptoms that weaken or stiffen your heart.</p>
+		<p>
+		In some people with heart failure, the heart has difficulty pumping enough blood to support other organs in the body. Other people may have a hardening and stiffening of the heart muscle itself, which blocks or reduces blood flow to the heart.
+		</p>
+		<p>
+		Heart failure can affect the right or left side of your heart or both at the same time. It can be either an acute (short-term) or chronic (ongoing) condition.
+		</p>
+		<p>
+		With acute heart failure, the symptoms appear suddenly but go away fairly quickly. This condition can occur after a heart attack. It may also be a result of a problem with the heart valves that control the flow of blood in the heart.
+		With chronic heart failure, symptoms are continuous and don’t improve over time. Most heart failure cases are chronic.</p>
+		<p>
+			<ul>
+				<li>
+					With <strong>acute heart failure</strong>, the symptoms appear suddenly but go away fairly quickly. This condition can occur after a heart attack. It may also be a result of a problem with the heart valves that control the flow of blood in the heart.
+				</li>
+				<li>With <strong>chronic heart failure</strong>, symptoms are continuous and don’t improve over time. Most heart failure cases are chronic.</li>
+			</ul>
+		</p>
+		<h2>Risk factors of heart failure? </h2>
+		<p>
+			<ul><li>Age</li>
+				<li>Poor diet</li>
+				<li>Smoking</li>
+				<li>Family History</li>
+				<li>Diabetes</li>
+				<li>Obesity</li>
+				<li>High blood pressure</li>
+				<li>Physical inactivity</li>
+				<li>High blood cholesterol level e.t.c</li>
+			</ul>
+		</p>
+		<br>
+		<hr>
+		<h2>About our dataset</h2>
+		<p>The dataset used for this analysis/model was obtained from <a href="https://www.kaggle.com/andrewmvd/heart-failure-clinical-data" style="color: blue">kaggle</a></p>
+		<h3>What each feature represents?</h3>
+		<p><ul>
+			<li><strong>AGE</strong>: This represents the age of the patients in years.</li>
+			<li><strong>EJECTION FRACTION</strong>: Percentage of blood leaving the heart at each contraction (percentage)</li>
+			<li><strong>SERUM CREATININE</strong>: Level of serum sodium in the blood (mEq/L)</li>
+			<li><strong>TIME/FOLLOW UP PERIOD</strong>: This is how long a patient was monitored for after commencement of treatment. This includes keeping track of the health of people who participate in a clinical study</li>
+			<li><strong>CREATININE PHOSPHOKINASE</strong> :Level of the CPK enzyme in the blood.its measured in (mcg/L)</li>
+			<li><strong>SEX</strong>:patience gender </li>
+			<li><strong>SMOKING</strong>: if patient smokes or not</li>
+		</ul></p>
+	</div>
+{% endblock %}

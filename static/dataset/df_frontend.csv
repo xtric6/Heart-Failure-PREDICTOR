@@ -1,0 +1,292 @@
+,age,creatinine_phosphokinase,ejection_fraction,serum_creatinine,time,sex,smoking,heart_failure
+0,65.0,160,20,2.7,8,female,no_smoking,at risk
+1,90.0,47,40,2.1,8,male,smoking,at risk
+2,75.0,246,15,1.2,10,male,no_smoking,at risk
+3,60.0,315,60,1.1,10,male,smoking,at risk
+4,65.0,157,65,1.5,10,female,no_smoking,at risk
+5,80.0,123,35,9.4,10,male,smoking,at risk
+6,75.0,81,38,4.0,10,male,smoking,at risk
+7,62.0,231,25,0.9,10,male,smoking,at risk
+8,45.0,981,30,1.1,11,male,no_smoking,at risk
+9,50.0,168,38,1.1,11,male,no_smoking,at risk
+10,49.0,80,30,1.0,12,female,no_smoking,not at risk
+11,82.0,379,50,1.3,13,male,no_smoking,at risk
+12,87.0,149,38,0.9,14,male,no_smoking,at risk
+13,45.0,582,14,0.8,14,male,no_smoking,at risk
+14,70.0,125,25,1.0,15,female,no_smoking,at risk
+15,48.0,582,55,1.9,15,female,no_smoking,at risk
+16,65.0,52,25,1.3,16,female,no_smoking,not at risk
+17,65.0,128,30,1.6,20,female,no_smoking,at risk
+18,68.0,220,35,0.9,20,male,smoking,at risk
+19,53.0,63,60,0.8,22,male,no_smoking,not at risk
+20,75.0,582,30,1.83,23,female,no_smoking,at risk
+21,80.0,148,38,1.9,23,male,smoking,at risk
+22,95.0,112,40,1.0,24,female,no_smoking,at risk
+23,70.0,122,45,1.3,26,male,smoking,at risk
+24,58.0,60,38,5.8,26,male,no_smoking,at risk
+25,82.0,70,30,1.2,26,male,smoking,at risk
+26,94.0,582,38,1.83,27,male,no_smoking,at risk
+27,85.0,23,45,3.0,28,male,no_smoking,at risk
+28,50.0,249,35,1.0,28,female,no_smoking,at risk
+29,50.0,159,30,1.2,29,female,no_smoking,not at risk
+30,65.0,94,50,1.0,29,male,no_smoking,at risk
+31,69.0,582,35,3.5,30,male,no_smoking,at risk
+32,90.0,60,50,1.0,30,male,no_smoking,at risk
+33,82.0,855,50,1.0,30,female,no_smoking,at risk
+34,60.0,2656,30,2.3,30,male,no_smoking,not at risk
+35,60.0,235,38,3.0,30,female,no_smoking,at risk
+36,70.0,582,20,1.83,31,male,smoking,at risk
+37,50.0,124,30,1.2,32,female,smoking,at risk
+38,70.0,571,45,1.2,33,male,smoking,at risk
+39,72.0,127,50,1.0,33,male,no_smoking,not at risk
+40,60.0,588,60,1.1,33,female,no_smoking,at risk
+41,50.0,582,38,1.9,35,male,smoking,at risk
+42,51.0,1380,25,0.9,38,male,no_smoking,at risk
+43,60.0,582,38,0.6,40,male,smoking,at risk
+44,80.0,553,20,4.4,41,male,no_smoking,at risk
+45,57.0,129,30,1.0,42,female,no_smoking,at risk
+46,68.0,577,25,1.0,43,male,no_smoking,at risk
+47,53.0,91,20,1.4,43,female,no_smoking,at risk
+48,60.0,3964,62,6.8,43,female,no_smoking,at risk
+49,70.0,69,50,1.0,44,female,no_smoking,at risk
+50,60.0,260,38,2.2,45,female,smoking,at risk
+51,95.0,371,30,2.0,50,male,no_smoking,at risk
+52,70.0,75,35,2.7,54,male,smoking,not at risk
+53,60.0,607,40,0.6,54,male,smoking,not at risk
+54,49.0,789,20,1.1,55,male,smoking,at risk
+55,72.0,364,20,1.3,59,male,smoking,at risk
+56,45.0,7702,25,1.0,60,male,no_smoking,at risk
+57,50.0,318,40,2.3,60,female,no_smoking,at risk
+58,55.0,109,35,1.1,60,male,smoking,not at risk
+59,45.0,582,35,1.0,61,male,no_smoking,at risk
+60,45.0,582,80,1.18,63,female,no_smoking,not at risk
+61,60.0,68,20,2.9,64,male,smoking,at risk
+62,42.0,250,15,1.3,65,female,no_smoking,at risk
+63,72.0,110,25,1.0,65,male,smoking,at risk
+64,70.0,161,25,1.2,66,female,no_smoking,at risk
+65,65.0,113,25,1.83,67,male,no_smoking,at risk
+66,41.0,148,40,0.8,68,male,smoking,not at risk
+67,58.0,582,35,0.9,71,male,smoking,not at risk
+68,85.0,5882,35,1.0,72,male,smoking,at risk
+69,65.0,224,50,1.3,72,male,smoking,not at risk
+70,69.0,582,20,1.2,73,male,smoking,at risk
+71,60.0,47,20,0.7,73,male,smoking,at risk
+72,70.0,92,60,0.8,74,female,smoking,not at risk
+73,42.0,102,40,1.2,74,male,no_smoking,not at risk
+74,75.0,203,38,0.6,74,male,smoking,not at risk
+75,55.0,336,45,0.9,74,female,no_smoking,not at risk
+76,70.0,69,40,1.7,75,female,no_smoking,not at risk
+77,67.0,582,50,1.18,76,male,smoking,not at risk
+78,60.0,76,25,2.5,77,female,no_smoking,at risk
+79,79.0,55,50,1.8,78,male,no_smoking,not at risk
+80,59.0,280,25,1.0,78,female,no_smoking,at risk
+81,51.0,78,50,0.7,79,male,no_smoking,not at risk
+82,55.0,47,35,1.1,79,male,no_smoking,not at risk
+83,65.0,68,60,0.8,79,male,no_smoking,not at risk
+84,44.0,84,40,0.7,79,male,no_smoking,not at risk
+85,57.0,115,25,1.1,79,male,no_smoking,not at risk
+86,70.0,66,45,0.8,80,male,smoking,not at risk
+87,60.0,897,45,1.0,80,male,no_smoking,not at risk
+88,42.0,582,60,1.18,82,female,no_smoking,not at risk
+89,60.0,154,25,1.7,82,male,no_smoking,at risk
+90,58.0,144,38,0.7,83,female,no_smoking,not at risk
+91,58.0,133,60,1.0,83,male,no_smoking,not at risk
+92,63.0,514,25,1.3,83,male,no_smoking,not at risk
+93,70.0,59,60,1.1,85,female,no_smoking,not at risk
+94,60.0,156,25,1.2,85,female,no_smoking,not at risk
+95,63.0,61,40,1.1,86,female,no_smoking,not at risk
+96,65.0,305,25,1.1,87,male,no_smoking,not at risk
+97,75.0,582,45,1.18,87,male,no_smoking,not at risk
+98,80.0,898,25,1.1,87,male,smoking,not at risk
+99,42.0,5209,30,1.0,87,male,smoking,not at risk
+100,60.0,53,50,2.3,87,female,no_smoking,not at risk
+101,72.0,328,30,1.7,88,female,smoking,at risk
+102,55.0,748,45,1.3,88,male,no_smoking,not at risk
+103,45.0,1876,35,0.9,88,male,no_smoking,not at risk
+104,63.0,936,38,1.1,88,male,smoking,not at risk
+105,45.0,292,35,1.3,88,male,smoking,not at risk
+106,85.0,129,60,1.2,90,male,smoking,at risk
+107,55.0,60,35,1.2,90,male,smoking,not at risk
+108,50.0,369,25,1.6,90,male,no_smoking,not at risk
+109,70.0,143,60,1.3,90,female,no_smoking,at risk
+110,60.0,754,40,1.2,91,male,no_smoking,not at risk
+111,58.0,400,40,1.0,91,female,no_smoking,not at risk
+112,60.0,96,60,0.7,94,female,no_smoking,not at risk
+113,85.0,102,60,3.2,94,female,no_smoking,not at risk
+114,65.0,113,60,0.9,94,female,no_smoking,not at risk
+115,86.0,582,38,1.83,95,female,no_smoking,at risk
+116,60.0,737,60,1.5,95,male,smoking,not at risk
+117,66.0,68,38,1.0,95,female,no_smoking,not at risk
+118,60.0,96,38,0.75,95,female,no_smoking,not at risk
+119,60.0,582,30,0.9,95,female,no_smoking,not at risk
+120,60.0,582,40,3.7,96,male,no_smoking,at risk
+121,43.0,358,50,1.3,97,female,no_smoking,not at risk
+122,46.0,168,17,2.1,100,female,no_smoking,at risk
+123,58.0,200,60,0.8,104,female,no_smoking,not at risk
+124,61.0,248,30,0.7,104,male,smoking,not at risk
+125,53.0,270,35,3.4,105,male,no_smoking,not at risk
+126,53.0,1808,60,0.7,106,male,smoking,not at risk
+127,60.0,1082,45,6.1,107,male,no_smoking,not at risk
+128,46.0,719,40,1.18,107,female,no_smoking,not at risk
+129,63.0,193,60,1.3,107,male,smoking,not at risk
+130,81.0,4540,35,1.18,107,male,smoking,not at risk
+131,75.0,582,40,1.18,107,male,no_smoking,not at risk
+132,65.0,59,60,0.9,107,female,no_smoking,not at risk
+133,68.0,646,25,2.1,108,male,no_smoking,not at risk
+134,62.0,281,35,1.0,108,female,no_smoking,not at risk
+135,50.0,1548,30,0.8,108,male,no_smoking,not at risk
+136,80.0,805,38,1.1,109,male,no_smoking,at risk
+137,46.0,291,35,0.9,109,female,no_smoking,not at risk
+138,50.0,482,30,0.9,109,female,no_smoking,not at risk
+139,61.0,84,40,0.9,110,female,no_smoking,not at risk
+140,72.0,943,25,1.7,111,male,smoking,at risk
+141,50.0,185,30,0.7,112,male,smoking,not at risk
+142,52.0,132,30,0.7,112,male,smoking,not at risk
+143,64.0,1610,60,1.0,113,male,no_smoking,not at risk
+144,75.0,582,30,1.83,113,male,no_smoking,at risk
+145,60.0,2261,35,0.9,115,male,no_smoking,not at risk
+146,72.0,233,45,2.5,115,female,no_smoking,at risk
+147,62.0,30,60,0.9,117,male,no_smoking,not at risk
+148,50.0,115,45,0.9,118,male,smoking,not at risk
+149,50.0,1846,35,1.18,119,male,smoking,not at risk
+150,65.0,335,35,0.8,120,female,no_smoking,not at risk
+151,60.0,231,25,1.7,120,male,no_smoking,not at risk
+152,52.0,58,35,1.4,120,female,no_smoking,not at risk
+153,50.0,250,25,1.0,120,male,smoking,not at risk
+154,85.0,910,50,1.3,121,male,no_smoking,not at risk
+155,59.0,129,45,1.1,121,male,smoking,not at risk
+156,66.0,72,40,1.2,121,male,no_smoking,not at risk
+157,45.0,130,35,0.8,121,male,smoking,not at risk
+158,63.0,582,40,0.9,123,male,smoking,not at risk
+159,50.0,2334,35,0.9,126,female,no_smoking,at risk
+160,45.0,2442,30,1.1,129,male,no_smoking,at risk
+161,80.0,776,38,1.3,130,female,no_smoking,at risk
+162,53.0,196,60,0.7,134,male,smoking,not at risk
+163,59.0,66,20,2.4,135,male,no_smoking,at risk
+164,65.0,582,40,1.0,140,female,no_smoking,not at risk
+165,70.0,835,35,0.8,145,female,no_smoking,not at risk
+166,51.0,582,35,1.5,145,male,smoking,not at risk
+167,52.0,3966,40,0.9,146,male,smoking,not at risk
+168,70.0,171,60,1.1,146,male,smoking,not at risk
+169,50.0,115,20,0.8,146,male,no_smoking,not at risk
+170,65.0,198,35,0.9,146,male,smoking,not at risk
+171,60.0,95,60,1.0,146,male,smoking,not at risk
+172,69.0,1419,40,1.0,147,male,smoking,not at risk
+173,49.0,69,50,1.0,147,female,no_smoking,not at risk
+174,63.0,122,60,1.2,147,male,no_smoking,not at risk
+175,55.0,835,40,0.7,147,male,smoking,not at risk
+176,40.0,478,30,0.9,148,male,no_smoking,not at risk
+177,59.0,176,25,1.0,150,male,smoking,at risk
+178,65.0,395,25,1.2,154,male,smoking,at risk
+179,75.0,99,38,2.5,162,male,no_smoking,at risk
+180,58.0,145,25,1.2,170,male,smoking,at risk
+181,60.667,104,30,1.5,171,male,no_smoking,at risk
+182,50.0,582,50,0.6,172,female,no_smoking,at risk
+183,60.0,1896,25,2.1,172,female,no_smoking,at risk
+184,60.667,151,40,1.0,172,female,no_smoking,not at risk
+185,40.0,244,45,0.9,174,female,no_smoking,not at risk
+186,80.0,582,35,2.1,174,male,no_smoking,not at risk
+187,64.0,62,60,1.5,174,female,no_smoking,not at risk
+188,50.0,121,40,0.7,175,male,no_smoking,not at risk
+189,73.0,231,30,1.18,180,male,smoking,not at risk
+190,45.0,582,20,1.6,180,male,no_smoking,at risk
+191,77.0,418,45,1.8,180,male,no_smoking,at risk
+192,45.0,582,38,1.18,185,female,no_smoking,not at risk
+193,65.0,167,30,0.8,186,female,no_smoking,not at risk
+194,50.0,582,20,1.0,186,female,no_smoking,not at risk
+195,60.0,1211,35,1.8,186,male,smoking,not at risk
+196,78.0,64,40,0.7,187,male,smoking,not at risk
+197,50.0,167,45,1.0,187,female,no_smoking,not at risk
+198,40.0,101,40,0.8,187,female,no_smoking,not at risk
+199,85.0,212,38,0.9,187,male,no_smoking,not at risk
+200,60.0,2281,40,1.0,187,female,no_smoking,not at risk
+201,49.0,972,35,0.8,187,female,no_smoking,not at risk
+202,70.0,212,17,1.0,188,male,smoking,not at risk
+203,50.0,582,62,0.8,192,male,smoking,not at risk
+204,78.0,224,50,1.4,192,male,smoking,not at risk
+205,48.0,131,30,1.6,193,female,no_smoking,at risk
+206,65.0,135,35,0.8,194,male,no_smoking,not at risk
+207,73.0,582,35,1.3,195,male,no_smoking,not at risk
+208,70.0,1202,50,0.9,196,female,no_smoking,not at risk
+209,54.0,427,70,9.0,196,female,no_smoking,at risk
+210,68.0,1021,35,1.1,197,male,no_smoking,not at risk
+211,55.0,582,35,0.7,197,female,no_smoking,not at risk
+212,73.0,582,20,1.83,198,male,no_smoking,at risk
+213,65.0,118,50,1.1,200,male,smoking,not at risk
+214,42.0,86,35,1.1,201,male,smoking,not at risk
+215,47.0,582,25,0.8,201,male,no_smoking,not at risk
+216,58.0,582,25,1.0,205,male,no_smoking,not at risk
+217,75.0,675,60,1.4,205,female,no_smoking,not at risk
+218,58.0,57,25,1.3,205,male,smoking,not at risk
+219,55.0,2794,35,1.0,206,male,no_smoking,not at risk
+220,65.0,56,25,5.0,207,female,no_smoking,not at risk
+221,72.0,211,25,1.2,207,female,no_smoking,not at risk
+222,60.0,166,30,1.7,207,female,no_smoking,at risk
+223,70.0,93,35,1.1,208,male,smoking,not at risk
+224,40.0,129,35,0.9,209,male,no_smoking,not at risk
+225,53.0,707,38,1.4,209,male,smoking,not at risk
+226,53.0,582,45,1.1,209,male,smoking,not at risk
+227,77.0,109,50,1.1,209,male,no_smoking,not at risk
+228,75.0,119,50,1.1,209,male,no_smoking,not at risk
+229,70.0,232,30,1.2,210,male,no_smoking,not at risk
+230,65.0,720,40,1.0,210,female,no_smoking,not at risk
+231,55.0,180,45,1.18,211,male,smoking,not at risk
+232,70.0,81,35,1.3,212,female,no_smoking,not at risk
+233,65.0,582,30,1.3,212,male,smoking,not at risk
+234,40.0,90,35,1.1,212,male,smoking,not at risk
+235,73.0,1185,40,0.9,213,female,no_smoking,not at risk
+236,54.0,582,38,1.8,213,male,no_smoking,not at risk
+237,61.0,80,38,1.4,213,male,no_smoking,not at risk
+238,55.0,2017,25,1.1,214,male,no_smoking,at risk
+239,64.0,143,25,2.4,214,male,no_smoking,not at risk
+240,40.0,624,35,1.0,214,male,smoking,not at risk
+241,53.0,207,40,1.2,214,female,no_smoking,not at risk
+242,50.0,2522,30,0.5,214,female,no_smoking,not at risk
+243,55.0,572,35,0.8,215,female,no_smoking,not at risk
+244,50.0,245,45,1.0,215,male,no_smoking,not at risk
+245,70.0,88,35,1.2,215,female,no_smoking,not at risk
+246,53.0,446,60,1.0,215,male,no_smoking,not at risk
+247,52.0,191,30,1.0,216,male,smoking,not at risk
+248,65.0,326,38,1.7,220,female,no_smoking,not at risk
+249,58.0,132,38,1.0,230,male,no_smoking,not at risk
+250,45.0,66,25,0.8,230,male,no_smoking,not at risk
+251,53.0,56,50,0.7,231,male,smoking,not at risk
+252,55.0,66,40,1.0,233,male,no_smoking,not at risk
+253,62.0,655,40,0.7,233,female,no_smoking,not at risk
+254,65.0,258,25,1.4,235,male,no_smoking,at risk
+255,68.0,157,60,1.0,237,female,no_smoking,not at risk
+256,61.0,582,38,1.2,237,male,no_smoking,not at risk
+257,50.0,298,35,0.9,240,male,smoking,not at risk
+258,55.0,1199,20,1.83,241,male,smoking,at risk
+259,56.0,135,38,1.7,244,male,no_smoking,not at risk
+260,45.0,582,38,0.9,244,female,no_smoking,not at risk
+261,40.0,582,35,1.0,244,male,no_smoking,not at risk
+262,44.0,582,30,1.6,244,male,smoking,not at risk
+263,51.0,582,40,0.9,244,female,no_smoking,not at risk
+264,67.0,213,38,1.2,245,female,no_smoking,not at risk
+265,42.0,64,40,0.7,245,male,no_smoking,not at risk
+266,60.0,257,30,1.0,245,male,smoking,not at risk
+267,45.0,582,38,0.8,245,female,no_smoking,not at risk
+268,70.0,618,35,1.1,245,female,no_smoking,not at risk
+269,70.0,582,38,1.1,246,male,no_smoking,not at risk
+270,50.0,1051,30,0.7,246,female,no_smoking,not at risk
+271,55.0,84,38,1.3,246,female,no_smoking,not at risk
+272,70.0,2695,40,1.0,247,male,no_smoking,not at risk
+273,70.0,582,40,2.7,250,male,smoking,not at risk
+274,42.0,64,30,3.8,250,male,smoking,not at risk
+275,65.0,1688,38,1.1,250,male,smoking,not at risk
+276,50.0,54,40,0.8,250,male,no_smoking,not at risk
+277,55.0,170,40,1.2,250,male,no_smoking,not at risk
+278,60.0,253,35,1.7,250,male,no_smoking,not at risk
+279,45.0,582,55,1.0,250,female,no_smoking,not at risk
+280,65.0,892,35,1.1,256,female,no_smoking,not at risk
+281,90.0,337,38,0.9,256,female,no_smoking,not at risk
+282,45.0,615,55,0.8,257,female,no_smoking,not at risk
+283,60.0,320,35,1.4,258,male,no_smoking,not at risk
+284,52.0,190,38,1.0,258,male,smoking,not at risk
+285,63.0,103,35,0.9,270,male,smoking,not at risk
+286,62.0,61,38,1.1,270,male,smoking,not at risk
+287,55.0,1820,38,1.2,271,female,no_smoking,not at risk
+288,45.0,2060,60,0.8,278,female,no_smoking,not at risk
+289,45.0,2413,38,1.4,280,male,smoking,not at risk
+290,50.0,196,45,1.6,285,male,smoking,not at risk
